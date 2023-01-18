@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cadiz">
+        <item>http://34.77.228.118/export/sites/segtur/.content/imagenes/cabeceras-grandes/andalucia/vista-panoramica-cadiz-s447378970.jpg</item>
+        <item>https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/05/07/16/cadiz.jpg?quality=75&amp;width=982&amp;height=726&amp;auto=webp</item>
+        <item>https://cdn.britannica.com/46/115246-050-40B89416/Cadiz-Spain.jpg</item>
+        <item>https://blog.fuertehoteles.com/wp-content/uploads/2020/02/plaza-san-juan-de-dios-cadiz.jpg</item>
+        <item>https://img.rockwool.com/https%3A%2F%2Fbrandcommunity.rockwool.com%2Fasset%2FfvPKPJqJ06VM5hCEg6qa6w?rect=0.0000%2C0.078125%2C4000%2C2250&amp;w=928&amp;auto=format%252Ccompress&amp;s=d2804afb12d343d802049733969a66dd</item>
+        <item>https://static.barcelo.com/content/dam/bhg/master/es/main-destination-photo/province/cadiz/OCAD_EXT_13.jpg.bhgimg.optm1100.jpg/1604677874754.jpg</item>
+        <item>https://a.travel-assets.com/findyours-php/viewfinder/images/res70/345000/345681-Old-Town-Cadiz.jpg</item>
+        <item>https://multimedia.andalucia.org/media/D2F811AA04B5480FA3D995CE5109CE41/img/0FD387077C10474BB773330837469828/CA_Cadiz_Castillo_San_Sebastian_07.jpg?responsive</item>
+        <item>https://static01.nyt.com/images/2019/09/08/travel/03ptg-cadiz-spain1-promo/03ptg-cadiz-spain1-promo-superJumbo-v4.jpg</item>
+        <item>https://www.spanishincadiz.com/i/pictures/cadiz002.jpg</item>
+
+    </string-array>
+</resources>

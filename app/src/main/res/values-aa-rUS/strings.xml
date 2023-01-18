@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+    <string name="app_name">Meet Spain</string>
+    <string name="nav_header_title">Meet Spain</string>
+    <string name="menu_home">About</string>
+    <string name="menu_gradovi">Cities</string>
+    <string name="menu_novosti">News</string>
+    <string name="menu_omiljeno">Favourite</string>
+    <string name="menu_podesavanja">Settings</string>
+    <string name="menu_znamenitosti">Landmarks</string>
+    <string name="save">Save</string>
+    <string name="prethodna">Previous</string>
+    <string name="sljedeca">Next</string>
+    <string name="omiljenoDodaj">Add to favourite</string>
+    <string name="omiljenoUkloni">Remove from favourite</string>
+    <string name="viseNa">More information at:</string>
+    <string name="brojSlika">Enter the number of images</string>
+    <string name="cache">Save data to device</string>
+    <string name="izaberiJezik">Choose language</string>
+    <string name="prviOpis">Spain or Spain (Spanish España [esˈpaɲa]; officially the Kingdom of Spain or the Kingdom of Spain, Spanish Reino de España), a country in southwestern Europe, on the Iberian Peninsula, between the Bay of Biscay in the north, France (border length 623 km) and Andorra ( 64 km) in the northeast, the Mediterranean Sea in the east and south, Gibraltar (1.2 km) in the south, Portugal (1214 km) and the Atlantic Ocean in the west; covers 504,782 km2.</string>
+    <string name="drugiOpis">Two archipelagos located in the Mediterranean Sea (Balearic Islands) and the Atlantic Ocean (Canary Islands), the North African coastal cities of Ceuta and Melilla, which are under Spanish administration, and the enclave of Llivia in the French Pyrenees are part of Spanish territory. The North African territories under Spanish administration border Morocco. The total length of the Spanish land border is 1918 km. It has been a member of the European Union since 1986. Modern Spain emerged gradually over the centuries from the amalgamation of various small Christian Pyrenean kingdoms during their struggles with the Arabs. The final unification took place in the 15th century, after which the last Arab kingdom, Granada, was conquered, after which, in the next century, Spain became the first world empire originating from Europe through further expansion. Today\'s side effect of this expansion is that for 600 million people, Spanish is their native language, that is, their first language, which makes it the second largest language in the world. The capital of the Kingdom of Spain is Madrid. The city with 3,155,359 inhabitants (Madrid County 5,964,143) is located in the center of the Iberian Peninsula. Other major cities are Barcelona, Valencia, Seville, Zaragoza and Malaga.</string>
+
+
+</resources>

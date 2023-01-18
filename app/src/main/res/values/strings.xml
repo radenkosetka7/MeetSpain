@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+    <string name="app_name">Upoznaj Spaniju</string>
+    <string name="nav_header_title">Upoznaj Spaniju</string>
+    <string name="menu_home">Uopšteno</string>
+    <string name="menu_gradovi">Gradovi</string>
+    <string name="menu_novosti">Novosti</string>
+    <string name="menu_omiljeno">Omiljeno</string>
+    <string name="menu_podesavanja">Podešavanja</string>
+    <string name="menu_znamenitosti">Znamenitosti</string>
+    <string name="save">Sačuvaj</string>
+    <string name="viseNa">Više informacija na:</string>
+    <string name="brojSlika">Unesite broj slika</string>
+    <string name="cache">Sačuvaj podatke na uređaju</string>
+    <string name="izaberiJezik">Izaberi jezik</string>
+    <string name="prethodna">Prehodna</string>
+    <string name="sljedeca">Sljedeća</string>
+    <string name="omiljenoDodaj">Dodaj u omiljeno</string>
+    <string name="omiljenoUkloni">Ukloni iz omiljeno</string>
+    <string name="prviOpis">Španija ili Španjolska (špan. España [esˈpaɲa]; službeno Kraljevina Španija ili Kraljevina Španjolska, špan. Reino de España), država u jugozapadnoj Evropi, na Pirenejskom poluotoku, između Biskajskog zaljeva na sjeveru, Francuske (duljina granice 623 km) i Andore (64 km) na sjeveroistoku, Sredozemnog mora na istoku i jugu, Gibraltara (1,2 km) na jugu, Portugala (1214 km) i Atlantskog oceana na zapadu; obuhvaća 504 782 km2.</string>
+    <string name="drugiOpis">Dio španjolskog teritorija jesu i dva arhipelaga, smješteni u Sredozemnom moru (Balearski otoci) i Atlantskom oceanu (Kanarski otoci), sjevernoafrički primorski gradovi Ceuta i Melilla, koji su pod španjolskom upravom te enklava Llivia u francuskim Pirenejima. Sjevernoafrički teritoriji pod španjolskom upravom graniče s Maroko. Ukupna dužina španjolske kopnene granice je 1918km. Od 1986. godine članica je Europske Unije. Moderna Španija nastaje postepeno kroz vekove spajanjem različitih malenih krišćanskih pirinejskih kraljevstava tijekom njihovih borbi s Arapima. Do završnog ujedinjenja dolazi u 15 veku nakon čega je osvojeno posljednjo arapsko kraljevstvo Granada nakon čega u sljedećem veku Španija postaje daljnjom ekspanzijom prvo svetsko carstvo koje potiče iz Evrope. Današnja nuspojava ove ekspanzije je da za 600 miliona ljudi Španjolski jezik je rodni to jest prvi jezik što ga čini drugim najvećim jezikom na svetu. Glavni grad Kraljevine Španije je Madrid. Grad sa 3.155.359 stanovnika (Madridska županija 5,964,143) smješten je u središtu Pirenejskog poluotoka. Drugi veći gradovi su Barcelona, Valencia, Sevilla, Zaragoza i Malaga.</string>
+</resources>

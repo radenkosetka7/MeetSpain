@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bilbao">
+        <item>http://34.77.228.118/export/sites/segtur/.content/imagenes/cabeceras-grandes/pais-vasco/guggenheim-bilbao-24831895-istock.jpg</item>
+        <item>https://media.istockphoto.com/id/537626052/photo/cityscape-of-bilbao.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=xvDjkv9ykQDaTNRV_qZeGBBWTxnqUHU4iv1msNvsNZs=</item>
+        <item>https://a.cdn-hotels.com/gdcs/production145/d1594/c628f660-5863-11e8-9946-0242ac110009.jpg</item>
+        <item>http://34.77.228.118/export/sites/segtur/.content/imagenes/rutas/bilbao-dos-dias/bilbao-mercado-ribera-s410197552.jpg</item>
+        <item>https://media.architecturaldigest.com/photos/5b7c2b43969da70bdafb70d0/16:9/w_2560%2Cc_limit/GettyImages-857833206.jpg</item>
+        <item>https://images.ctfassets.net/zmjc9gr9hbbf/3Yg9vIP8RGvrwu4IXymt0B/e63b9895579d955a196b2fd4bbc664e5/Bilbao.jpg?w=1024&amp;h=536&amp;fit=fill</item>
+        <item>https://media.timeout.com/images/105315517/750/422/image.jpg</item>
+        <item>https://cms.guggenheim-bilbao.eus/uploads/2012/05/004.Puppy_Julio-2012-1-1920x2283.jpg</item>
+        <item>https://media.timeout.com/images/105737199/image.jpg</item>
+        <item>https://media.istockphoto.com/id/907888456/photo/view-of-ribera-market-at-morning-in-bilbao-spain.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=DHd4spq6WTU3bHhNItJ7fYt7vp8WLqIbSowXgV4NCGo=</item>
+
+    </string-array>
+</resources>

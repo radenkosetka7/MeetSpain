@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/MainLayout"
+    tools:context=".ui.AtrakcijaFragment">
+
+    <LinearLayout
+        style="@style/BasicStyle"
+        android:orientation="vertical">
+
+        <fragment
+            android:id="@+id/mapa"
+            android:name="com.google.android.gms.maps.SupportMapFragment"
+            style="@style/CustomFragment"
+            android:layout_height="220dp" />
+
+        <TextView
+            style="@style/Title"
+            android:id="@+id/nazivAtrakcije"/>
+
+        <ImageView
+            android:id="@+id/slikaAtrakcije"
+            style="@style/PhotoCapital"
+            android:contentDescription="TODO" />
+
+        <LinearLayout
+            style="@style/HorizontalLayout"
+            android:gravity="center"
+            android:id="@+id/dugmad">
+
+            <Button
+                android:id="@+id/btnFav"
+                style="@style/ButtonNext"
+                android:text="@string/omiljenoDodaj"
+                android:textColor="@color/black"/>
+        </LinearLayout>
+
+        <TextView
+            style="@style/DescriptionText"
+            android:id="@+id/opisAtrakcije" />
+    </LinearLayout>
+</ScrollView>

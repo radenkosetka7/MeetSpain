@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="barcelona">
+        <item>https://media.cntraveler.com/photos/591f1c7d1f187a2af3dedef0/master/w_2048,h_1536,c_limit/barcelona-park-guell-GettyImages-512152500.jpg</item>
+        <item>https://images.unsplash.com/photo-1583422409516-2895a77efded?ixlib=rb-4.0.3&amp;ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YmFyY2Vsb25hfGVufDB8fDB8fA%3D%3D&amp;w=1000&amp;q=80</item>
+        <item>https://media.timeout.com/images/105827631/750/422/image.jpg</item>
+        <item>https://media.istockphoto.com/id/1301579230/photo/spanish-cities-the-sacred-barcelona-family.jpg?b=1&amp;s=170667a&amp;w=0&amp;k=20&amp;c=HKnSy_PCFZ4uPAfaxnLiHCrKjZZHRRQam039UjgTprA=</item>
+        <item>https://media.istockphoto.com/id/1338651203/photo/barcelona-spain-high-angle-view-city-skyline-at-la-rambla-street-with-autumn-foliage-season.jpg?b=1&amp;s=170667a&amp;w=0&amp;k=20&amp;c=LB1Ip4VJeBaaJO17rn0_3531UvPBK9K5qPTJ0yKKhLs=</item>
+        <item>https://st2.depositphotos.com/6588682/9419/i/950/depositphotos_94190360-stock-photo-barcelona-city-in-spain.jpg</item>
+        <item>https://d3dqioy2sca31t.cloudfront.net/Projects/cms/production/000/033/324/slideshow/b51cccd665e853de48dc3456b59ab3e5/slide-spain-barcelona-casa-batllo.jpg</item>
+        <item>https://www.barcelona.cat/sites/default/files/styles/cap_mobile/public/illuminacio-nadalenca-de-gran-via-de-3.jpg?itok=q6u1kGTq</item>
+        <item>https://cdn.kimkim.com/files/a/content_articles/featured_photos/de83eb1133da0b01aaecfea9912437fc89f175e0/big-6b455800d8d60ee21a79501533d3d3a6.jpg</item>
+        <item>https://a.cdn-hotels.com/gdcs/production143/d1612/9c3c051a-5744-4cc7-8f9b-f2838f499a5c.jpg</item>
+
+    </string-array>
+</resources>

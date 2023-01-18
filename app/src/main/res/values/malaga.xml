@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="malaga">
+        <item>https://a.storyblok.com/f/95452/3720x2415/4b39e860e4/spain-malaga-city-and-port.jpg/m/1000x1000</item>
+        <item>https://media.istockphoto.com/id/526227145/photo/malaga-spain-cityscape-on-the-sea.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=J4jF0_GSqJ7RCpvhx-MEhb3xMAZEtShGl_brB_n5Nto=</item>
+        <item>https://www.spain.info/export/sites/segtur/.content/imagenes/cabeceras-grandes/andalucia/malaga-52886652-istock.jpg</item>
+        <item>https://content.r9cdn.net/rimg/dimg/ee/b1/8afb451d-city-5309-15cef627e8c.jpg?width=1366&amp;height=768&amp;xhint=1741&amp;yhint=1162&amp;crop=true</item>
+        <item>https://media.tacdn.com/media/attractions-content--1x-1/0b/b7/52/13.jpg</item>
+        <item>https://tourscanner.com/blog/wp-content/uploads/2021/11/fun-things-to-do-in-Malaga.jpg</item>
+        <item>https://www.tripsavvy.com/thmb/OO5QSHH3Mjt4Scg92D2y247OhhU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/spaininAprilMalaga-5c6d90d546e0fb0001ce29da.jpg</item>
+        <item>https://images.fnlondon.com/im-546811/?width=1280&amp;height=853</item>
+        <item>https://images.contentstack.io/v3/assets/blt00454ccee8f8fe6b/bltb47fab004c9db857/61c0577dc455652925b7943f/US_Ma%CC%81laga_ES_Header.jpg?width=1680&amp;quality=70&amp;auto=webp</item>
+        <item>https://a0.muscache.com/im/pictures/65194e78-9476-4e78-b511-7dec7d1df480.jpg?im_w=1680</item>
+
+    </string-array>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/MainLayout"
+    tools:context=".ui.NovostFragment">
+    <LinearLayout
+        style="@style/MainLayout">
+        <TextView
+            style="@style/Title"
+            android:id="@+id/novostNaslov" />
+        <ImageView
+            style="@style/PhotoCapital"
+            android:id="@+id/novostSlika" />
+        <TextView
+            style="@style/DescriptionText"
+            android:id="@+id/opisNovosti"
+            android:justificationMode="inter_word"/>
+        <TextView
+            style="@style/InfoNews"
+            android:text="@string/viseNa" />
+        <TextView
+            style="@style/InfoNews"
+            android:id="@+id/urlNovosti"
+            android:autoLink="web"
+            />
+    </LinearLayout>
+</ScrollView>

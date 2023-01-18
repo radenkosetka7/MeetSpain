@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.upoznajspaniju.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home">
+
+        <action
+            android:id="@+id/action_nav_home_to_nav_gradovi"
+            app:destination="@id/nav_gradovi" />
+
+        <action
+            android:id="@+id/action_nav_home_to_nav_podesavanja"
+            app:destination="@id/nav_podesavanja" />
+
+        <action
+            android:id="@+id/action_nav_home_to_nav_novosti"
+            app:destination="@id/nav_novosti" />
+
+        <action
+            android:id="@+id/action_nav_home_to_nav_omiljeno"
+            app:destination="@id/nav_omiljeno" />
+
+        <action
+            android:id="@+id/action_nav_home_to_nav_znamenitosti"
+            app:destination="@id/nav_znamenitosti" />
+
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_znamenitosti"
+        android:name="com.example.upoznajspaniju.ui.AtrakcijeFragment"
+        android:label="@string/menu_znamenitosti"
+        tools:layout="@layout/fragment_atrakcije">
+
+        <action
+            android:id="@+id/action_nav_znamenitosti_to_nav_home"
+            app:destination="@id/nav_home" />
+        <action
+            android:id="@+id/action_nav_znamenitosti_to_atrakcijaFragment"
+            app:destination="@id/atrakcijaFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/atrakcijaFragment"
+        android:name="com.example.upoznajspaniju.ui.AtrakcijaFragment"
+        tools:layout="@layout/fragment_atrakcija">
+
+        <action
+            android:id="@+id/action_atrakcijaFragment_to_nav_znamenitosti"
+            app:destination="@id/nav_znamenitosti" />
+        <action
+            android:id="@+id/action_atrakcijaFragment_to_nav_omiljeno"
+            app:destination="@id/nav_omiljeno" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_omiljeno"
+        android:name="com.example.upoznajspaniju.ui.OmiljenoFragment"
+        android:label="@string/menu_omiljeno"
+        tools:layout="@layout/fragment_omiljeno">
+
+        <action
+            android:id="@+id/action_nav_omiljeno_to_atrakcijaFragment"
+            app:destination="@id/atrakcijaFragment" />
+
+        <action
+            android:id="@+id/action_nav_omiljeno_to_nav_home"
+            app:destination="@id/nav_home" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_gradovi"
+        android:name="com.example.upoznajspaniju.ui.GradoviFragment"
+        android:label="@string/menu_gradovi"
+        tools:layout="@layout/fragment_gradovi">
+
+        <action
+            android:id="@+id/action_nav_gradovi_to_nav_home"
+            app:destination="@id/nav_home" />
+        <action
+            android:id="@+id/action_nav_gradovi_to_gradFragment"
+            app:destination="@id/gradFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/gradFragment"
+        android:name="com.example.upoznajspaniju.ui.GradFragment"
+        tools:layout="@layout/fragment_grad" >
+
+        <action
+            android:id="@+id/action_gradFragment_to_nav_gradovi"
+            app:destination="@id/nav_gradovi" />
+    </fragment>
+
+
+    <fragment
+        android:id="@+id/nav_novosti"
+        android:name="com.example.upoznajspaniju.ui.NovostiFragment"
+        android:label="@string/menu_novosti"
+        tools:layout="@layout/fragment_novosti" >
+        <action
+            android:id="@+id/action_nav_novosti_to_nav_home"
+            app:destination="@id/nav_home" />
+        <action
+            android:id="@+id/action_nav_novosti_to_novostFragment"
+            app:destination="@id/novostFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/nav_podesavanja"
+        android:name="com.example.upoznajspaniju.ui.PodesavanjaFragment"
+        android:label="@string/menu_podesavanja"
+        tools:layout="@layout/fragment_podesvanja" >
+        <action
+            android:id="@+id/action_nav_podesavanja_to_nav_home"
+            app:destination="@id/nav_home" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/novostFragment"
+        android:name="com.example.upoznajspaniju.ui.NovostFragment"
+        tools:layout="@layout/fragment_novost">
+
+        <action
+            android:id="@+id/action_novostFragment_to_nav_novosti"
+            app:destination="@id/nav_novosti" />
+    </fragment>
+
+
+
+
+</navigation>

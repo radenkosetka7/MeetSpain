@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".ui.PodesavanjaFragment"
+    android:orientation="vertical"
+    android:layout_gravity="center">
+
+    <TextView
+        android:id="@+id/textView"
+        style="@style/SubTitle"
+        android:gravity="center"
+        android:text="@string/brojSlika"/>
+
+    <EditText
+        android:id="@+id/editText"
+        style="@style/SubTitle"
+        android:layout_gravity="center"
+        android:layout_width="100dp"/>
+    <Switch
+        android:id="@+id/switchButton"
+        style="@style/SubTitle"
+        android:text="@string/cache"
+        tools:ignore="UseSwitchCompatOrMaterialXml" />
+    <Button
+        android:id="@+id/btnSacuvaj"
+        style="@style/ButtonNext"
+        android:text="@string/save"/>
+    <TextView
+        style="@style/SubTitle"
+        android:gravity="center"
+        android:text="@string/izaberiJezik" />
+    <LinearLayout
+        style="@style/HorizontalLayout"
+        android:gravity="center">
+        <ImageButton
+            android:id="@+id/btnEN"
+            style="@style/ButtonNext"
+            android:background="@drawable/us"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            />
+
+        <ImageButton
+            android:id="@+id/btnRS"
+            style="@style/ButtonNext"
+            android:background="@drawable/serbia"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            />
+    </LinearLayout>
+
+</LinearLayout>

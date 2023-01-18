@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/MainLayout"
+    android:scrollbarStyle="outsideOverlay"
+    tools:context=".ui.AtrakcijaFragment">
+
+    <LinearLayout
+        style="@style/BasicStyle"
+        android:orientation="vertical">
+
+        <fragment
+            android:id="@+id/mapa"
+            android:name="com.google.android.gms.maps.SupportMapFragment"
+            style="@style/CustomFragment"
+            android:layout_width="322dp"
+            android:layout_height="220dp" />
+
+        <TextView
+            android:id="@+id/nazivAtrakcije"
+            style="@style/Title"
+            android:layout_width="220dp" />
+
+        <ImageView
+            android:id="@+id/slikaAtrakcije"
+            style="@style/PhotoCapital"
+            android:layout_width="325dp"
+            android:contentDescription="TODO" />
+
+        <LinearLayout
+            android:id="@+id/dugmad"
+            style="@style/HorizontalLayout"
+            android:layout_height="63dp"
+            android:gravity="center">
+
+            <Button
+                android:id="@+id/btnFav"
+                style="@style/ButtonNext"
+                android:layout_width="216dp"
+                android:layout_height="match_parent"
+                android:text="@string/omiljenoDodaj"
+                android:textColor="@color/black" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/opisAtrakcije"
+            style="@style/DescriptionText"
+            android:layout_height="192dp" />
+    </LinearLayout>
+</ScrollView>

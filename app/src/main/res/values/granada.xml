@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="granada">
+        <item>https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/33/f7/94/granada.jpg?w=700&amp;h=500&amp;s=1</item>
+        <item>https://www.spain.info/export/sites/segtur/.content/imagenes/cabeceras-grandes/andalucia/alhambra-granada-20044065-istock.jpg_1014274486.jpg</item>
+        <item>https://static.saltinourhair.com/wp-content/uploads/2022/07/02154620/granada-spain-5.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/e/e7/View_of_Granada%2C_Spain.jpg</item>
+        <item>https://go2alhambra.com/images/granada2.jpg</item>
+        <item>https://media.cntraveller.com/photos/61483a6570c8d4e847122ed6/16:9/w_2560%2Cc_limit/Spain_GettyImages-953516520.jpg</item>
+        <item>https://thumbs.dreamstime.com/z/old-market-street-granada-spain-september-souvenir-located-cuesta-de-gomerez-attracts-tourists-visiting-way-to-179015078.jpg</item>
+        <item>https://cdn.internationalliving.com/wp-content/uploads/2019/03/Granada-Spain.jpg</item>
+        <item>https://avaz.ba/media/2021/02/18/1442237/thumbs/873x400.jpg</item>
+        <item>https://media-cdn.tripadvisor.com/media/photo-s/22/1c/dd/71/la-bella-granada.jpg</item>
+
+    </string-array>
+</resources>

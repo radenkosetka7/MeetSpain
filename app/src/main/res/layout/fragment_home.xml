@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    style="@style/LinearLayout"
+    tools:context=".ui.home.HomeFragment">
+
+    <LinearLayout
+        style="@style/LinearLayout"
+        android:orientation="vertical"
+        tools:ignore="MissingConstraints">
+
+        <TextView
+            android:id="@+id/opis1"
+            style="@style/DescriptionText"
+            android:text="@string/prviOpis" />
+
+        <ImageView
+            android:id="@+id/zastava"
+            style="@style/PhotoFlag"
+            android:src="@drawable/zastava" />
+
+        <TextView
+            android:id="@+id/opis2"
+            style="@style/DescriptionText"
+            android:justificationMode="inter_word"
+            android:text="@string/drugiOpis"/>
+
+        <ImageView
+            android:id="@+id/glavniGrad"
+            style="@style/PhotoCapital"
+            android:src="@drawable/madrid"/>
+    </LinearLayout>
+
+</ScrollView>

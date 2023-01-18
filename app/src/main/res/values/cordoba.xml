@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cordoba">
+        <item>http://34.77.228.118/export/sites/segtur/.content/imagenes/cabeceras-grandes/andalucia/vistas-cordoba-s158982617.jpg</item>
+        <item>https://culturezvous.com/wp-content/uploads/2022/03/cordoue.jpg</item>
+        <item>http://34.77.228.118/export/sites/segtur/.content/imagenes/cabeceras-grandes/andalucia/vista-exterior-mezquita-catedral-de-cordoba-s_572068267.jpg</item>
+        <item>https://www.cktravels.com/wp-content/uploads/2021/11/cordoba-5.jpg</item>
+        <item>https://media.istockphoto.com/id/1088244228/photo/nice-old-city-of-cordoba.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=NxjlXHO63NZQ5B1Pc00hMjWb1RHsx-zCSCThLLcbEbk=</item>
+        <item>https://www.ourescapeclause.com/wp-content/uploads/2022/02/shutterstock_648140449-scaled.jpg</item>
+        <item>https://sh-assets.holidu.com/imagecache/blog-photos/2077_Fill_670_0.jpg</item>
+        <item>http://cdn.cnn.com/cnnnext/dam/assets/181210155444-02-unesco-heritage-cordoba-restricrted.jpg</item>
+        <item>https://content.r9cdn.net/rimg/dimg/b5/a3/14497dee-city-4940-1732d466ee5.jpg?width=1366&amp;height=768&amp;xhint=3598&amp;yhint=1723&amp;crop=true</item>
+        <item>https://d2bgjx2gb489de.cloudfront.net/gbb-blogs/wp-content/uploads/2020/11/20151542/Cordoba.jpg</item>
+
+    </string-array>
+</resources>

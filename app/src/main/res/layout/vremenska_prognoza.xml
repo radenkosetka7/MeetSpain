@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/BasicStyle"
+    android:orientation="vertical"
+    android:background="@drawable/prognoza"
+    android:id="@+id/prognoza">
+    <TextView
+        style="@style/Title"
+        android:id="@+id/trenutnaTemperatura"/>
+    <TextView
+        style="@style/WeatherDescription"
+        android:id="@+id/opisVremena" />
+
+    <LinearLayout
+        style="@style/HorizontalLayout"
+        android:gravity="center">
+        <ImageView
+            style="@style/PicWeather"
+            android:src="@drawable/humidity" />
+        <TextView
+            style="@style/ContentWeather"
+            android:id="@+id/vlaznost" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/LayoutWeather">
+
+        <ImageView
+            style="@style/PicWeather"
+            android:src="@drawable/wind"/>
+
+        <TextView
+            style="@style/ContentWeather"
+            android:id="@+id/vjetar"/>
+    </LinearLayout>
+    <LinearLayout
+        style="@style/LayoutWeather">
+        <TextView
+            style="@style/PicWeather"
+            android:text="MIN" />
+        <TextView
+            style="@style/ContentWeather"
+            android:id="@+id/min"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/LayoutWeather">
+        <TextView
+            style="@style/PicWeather"
+            android:text="MAX" />
+        <TextView
+            style="@style/ContentWeather"
+            android:id="@+id/max"/>
+    </LinearLayout>
+
+</LinearLayout>

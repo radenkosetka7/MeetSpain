@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/MainLayout"
+    tools:context=".ui.GradFragment"
+    android:scrollbarStyle="outsideOverlay">
+    <LinearLayout
+        style="@style/BasicStyle"
+        android:orientation="vertical">
+
+        <fragment
+            android:id="@+id/mapa"
+            android:name="com.google.android.gms.maps.SupportMapFragment"
+            style="@style/CustomFragment"
+            android:layout_height="220dp" />
+
+        <TextView
+            android:id="@+id/nazivGrada"
+            style="@style/Title"
+            android:layout_width="162dp" />
+
+        <ImageView
+            android:id="@+id/photos"
+            style="@style/PhotoCapital"
+            android:layout_width="374dp"
+            android:contentDescription="TODO" />
+
+        <LinearLayout
+            style="@style/HorizontalLayout"
+            android:gravity="center"
+            android:id="@+id/dugmad">
+
+            <Button
+                android:id="@+id/btnPrevious"
+                style="@style/ButtonNext"
+                android:text="@string/prethodna"
+                android:textColor="@color/black"/>
+
+            <Button
+                android:id="@+id/btnNext"
+                style="@style/ButtonNext"
+                android:minWidth="48dp"
+                android:text="@string/sljedeca"
+                android:textColor="@color/black"
+                tools:ignore="TouchTargetSizeCheck,TouchTargetSizeCheck" />
+        </LinearLayout>
+        <TextView
+            style="@style/DescriptionText"
+            android:id="@+id/opisGrada" />
+
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+            android:id="@+id/video"
+            style="@style/BasicStyle"
+            android:layout_width="323dp"
+            android:layout_height="250dp"
+            android:layout_margin="@dimen/fab_margin" />
+
+        <include
+            layout="@layout/vremenska_prognoza"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:id="@+id/vremenskaPrognoza"/>
+    </LinearLayout>
+</ScrollView>

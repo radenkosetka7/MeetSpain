@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_baseline_home_24"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_gradovi"
+            android:icon="@drawable/ic_baseline_location_city_24"
+            android:title="@string/menu_gradovi" />
+        <item
+            android:id="@+id/nav_znamenitosti"
+            android:icon="@drawable/ic_baseline_location_on_24"
+            android:title="@string/menu_znamenitosti" />
+
+        <item
+            android:id="@+id/nav_novosti"
+            android:icon="@drawable/ic_baseline_newspaper_24"
+            android:title="@string/menu_novosti" />
+        <item
+            android:id="@+id/nav_omiljeno"
+            android:icon="@drawable/ic_baseline_favorite_24"
+            android:title="@string/menu_omiljeno" />
+
+        <item
+            android:id="@+id/nav_podesavanja"
+            android:icon="@drawable/ic_baseline_settings_applications_24"
+            android:title="@string/menu_podesavanja" />
+
+    </group>
+</menu>

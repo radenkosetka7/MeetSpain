@@ -76,7 +76,7 @@ public class MainActivity extends AppCompatActivity {
 
         binding = ActivityMainBinding.inflate(getLayoutInflater());
         setContentView(binding.getRoot());
-       // dbHelper.deleteItems();
+       // dbHelper.deleteItems(); on the first run uncomment this two lines of code, and then comment them again
         //TestData testData=new TestData();
         setSupportActionBar(binding.appBarMain.toolbar);
         DrawerLayout drawer = binding.drawerLayout;

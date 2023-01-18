@@ -46,6 +46,6 @@
         <TextView
             android:id="@+id/opisAtrakcije"
             style="@style/DescriptionText"
-            android:layout_height="192dp" />
+            android:layout_height="281dp" />
     </LinearLayout>
 </ScrollView>
